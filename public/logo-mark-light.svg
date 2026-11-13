@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="360 28 660 530" role="img" aria-label="Machonisa">
+<defs>
+  <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07377a"/><stop offset="1" stop-color="#001c4c"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38c919"/><stop offset="1" stop-color="#078a1f"/></linearGradient>
+</defs>
+<g>
+  <!-- Banknotes above the letter M -->
+  <path d="M585 165 L665 82 Q760 42 846 38 L804 151 Q710 159 619 242 Z" fill="url(#green)"/>
+  <path d="M809 151 L846 75 L895 83 L836 187 Z" fill="url(#green)"/>
+  <path d="M842 186 L891 119 L926 132 L859 201 Z" fill="url(#green)"/>
+  <circle cx="734" cy="125" r="44" fill="none" stroke="#fff" stroke-width="9"/>
+  <text x="734" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="61" font-weight="800" fill="#fff">R</text>
+  <!-- Main M monogram -->
+  <path d="M426 459 L492 211 Q498 192 520 192 L574 192 Q585 192 593 206 L678 336 L775 234 Q785 223 801 223 L878 223 Q891 223 893 239 L906 459 L775 459 L774 329 L699 405 L652 415 L574 292 L535 459 Z" fill="#ffffff"/>
+  <!-- Orbit swoosh, below the banknotes and across the letter -->
+  <path d="M383 418 C311 483 366 507 482 491 C695 464 892 363 951 276 C974 239 952 216 918 209 C974 214 1008 245 980 303 C931 408 718 516 502 537 C344 552 287 502 383 418 Z" fill="url(#green)"/>
+</g>
+</svg>
